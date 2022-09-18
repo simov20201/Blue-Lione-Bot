@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94714188730'
+global.REACT_NUMBER = '212632840369'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,15 +34,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "NIPUNA " //ur owner name
+global.vcardowner = ['212632840369'] //ur owner number
+global.ownername = "M O H A M E D  " //ur owner name
 global.ytname = "YT: Nipuna-apps" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['714188730']
-global.ownertag = '714188730' //ur tag number
+global.owner = ['212632840369']
+global.ownertag = '212632840369' //ur tag number
 global.botname = '⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜' //ur bot name
 global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
@@ -86,14 +86,14 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⚜'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin! 🇱🇰',
-    botAdmin: 'Bot Must Be Admin First! 🇱🇰',
-    owner: 'This Feature Is Only For Owner! 🇱🇰',
-    group: 'Feature Used Only For Groups! 🇱🇰',
-    private: 'Features Used Only For Private Chat! 🇱🇰',
-    bot: 'This Feature Is Only For Bot 🇱🇰',
-    wait: 'In wait 🇱🇰',
-    linkm: 'Where is the link? 🇱🇰',
+    admin: 'This Feature Is Only For Admin! 🇲🇦',
+    botAdmin: 'Bot Must Be Admin First! 🇲🇦',
+    owner: 'This Feature Is Only For Owner! 🇱🇰🇲🇦',
+    group: 'Feature Used Only For Groups! 🇱🇰🇲🇦',
+    private: 'Features Used Only For Private Chat! 🇱🇰🇲🇦',
+    bot: 'This Feature Is Only For Bot 🇱🇰🇲🇦',
+    wait: 'In wait 🇱🇰🇲🇦',
+    linkm: 'Where is the link? 🇱🇰🇲🇦',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
